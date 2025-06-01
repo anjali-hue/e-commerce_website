@@ -8,7 +8,7 @@ import { useAppContext } from './context/AppContextProvider';
 import AllProducts from './pages/AllProducts';
 import Footer from './Components/Footer';
 import ProductCategory from './pages/ProductCategory';
-import ProductDetails from './pages/productdetails';
+import ProductDetails from './pages/ProductDetails';
 
 
 
